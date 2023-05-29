@@ -1,4 +1,9 @@
+#Dependencies
 node_modules
+#Database
+db/*.db
+#Eviroment
 .env
-db/app.db
 .env.test
+#Build
+build
